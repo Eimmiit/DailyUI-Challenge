@@ -1,2 +1,2 @@
-# signup-page
-A basic signup page from DailyUI challenge
+Day to day challenge gotten from DailyUI
+
